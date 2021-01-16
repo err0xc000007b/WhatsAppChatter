@@ -4,7 +4,7 @@ whatsapp chatbot running on python 3.6.5 and above!
 # Instructions
 > On installation:
 1. `pip install -r requirements.txt`
-2. Add path-to-chromedriver in `chatter.py`
+2. Add `path-to-chromedriver` in `chatter.py`
 > Post installation:
 1. Run `chatter.py` and let it open the whatsapp QR scan page.
 2. Scan the QR and wait for whatsapp to load.
