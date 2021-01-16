@@ -2,6 +2,7 @@
 # Instructions:
 # 1. Remember to add path to chromedriver.exe at line 16
 # 2. Remember to pip install -r requirements.txt
+# 3. Remember to read the README file!
 # ~ 0xc00007b, with ❤️
 
 import os, time, datetime, random
