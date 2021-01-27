@@ -102,7 +102,7 @@ def analyze(data):
         if "was" in data or 'am' in data:
             for verb in verbs:
                 if verb+'ing' in data:
-                    if 'and' in data and 'hurt' in data or 'fell' in data or "didn like" in data or 'hate' in data or 'crashed' in data or 'burn' in data:
+                    if 'and' in data and 'hurt' in data or 'fell' in data or "didn't like" in data or 'hate' in data or 'crashed' in data or 'burn' in data:
                         feeling = Bad
                     else:
                         feeling = Good
