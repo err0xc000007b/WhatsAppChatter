@@ -1,5 +1,5 @@
 # WhatsAppChatter
-whatsapp chatbot running on python 3.6.5 and above!
+whatsapp chatbot capitable with python 3 and above!
 
 # Instructions
 > On installation:
